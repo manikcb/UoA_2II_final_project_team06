@@ -159,5 +159,3 @@ dataset/
 Thanks to the open-source community and academic mentors for guidance and resources.
 
 ---
-
-Let me know if you'd like a `requirements.txt`, sample scripts (`gif_split.py`, `frame_merge.py`, etc.), or a logo/banner for the repo.
