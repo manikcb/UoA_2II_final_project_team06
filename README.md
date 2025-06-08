@@ -1,6 +1,5 @@
 # UoA_2II_final_project_team06
 GIF enhancer
-Absolutely! Below is a **comprehensive and well-structured `README.md`** content for your GitHub project based on our entire conversation — from raw video ingestion to enhanced GIF output with GFPGAN, including dataset preparation, architecture, and evaluation.
 
 ---
 
