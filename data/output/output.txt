@@ -1,0 +1,8 @@
+All the data used in this project — including inputs, outputs, and frame-wise comparisons — is available on GitHub for transparency and reproducibility.
+
+You can explore the structured folders here:
+
+🔗 Project Data Repository – GitHub
+This folder includes:
+
+📁 output/ – Restored frames generated using GFPGAN
